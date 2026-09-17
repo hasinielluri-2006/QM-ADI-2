@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+pandas
+openpyxl
+xlrd
+odfpy
+pyxlsb
+lxml
+python-multipart
+duckdb
+groq
